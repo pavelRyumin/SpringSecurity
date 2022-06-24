@@ -1,2 +1,7 @@
-package com.ryumin.spring_security.configuration;public class MySecurityInitializer {
+package com.ryumin.spring_security.configuration;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class MySecurityInitializer extends AbstractSecurityWebApplicationInitializer {
+
 }
