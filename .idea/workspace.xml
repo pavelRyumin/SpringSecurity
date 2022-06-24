@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8a5d03-e573-4719-a6c8-496e648b3189" name="Changes" comment="Authorization">
+    <list default="true" id="5b8a5d03-e573-4719-a6c8-496e648b3189" name="Changes" comment="Passwords in the database (not encrypted)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryumin/spring_security/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryumin/spring_security/configuration/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryumin/spring_security/configuration/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryumin/spring_security/configuration/MySecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656051448997</updated>
-      <workItem from="1656051451808" duration="4159000" />
+      <workItem from="1656051451808" duration="5045000" />
     </task>
     <task id="LOCAL-00001" summary="Authentication">
       <created>1656053672354</created>
@@ -173,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656054762514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Passwords in the database (not encrypted)">
+      <created>1656055826233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656055826233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +197,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Authentication" />
     <MESSAGE value="Authorization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authorization" />
+    <MESSAGE value="Passwords in the database (not encrypted)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Passwords in the database (not encrypted)" />
   </component>
 </project>
